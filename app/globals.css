@@ -150,12 +150,6 @@ input {
   }
 }
 
-@media screen and (max-width: 600px) {
-  .sponsor {
-    display: none;
-  }
-}
-
 @media screen and (max-width: 900px) {
   .results-container {
     width: 100%;
